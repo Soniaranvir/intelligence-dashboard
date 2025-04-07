@@ -20,13 +20,7 @@ OktaPulse is a real-time analytics dashboard designed for global services and pa
 
 ## 🚀 Live Demo
 
-> [🔗 Click here to launch the app](https://your-live-link.streamlit.app)
-
-## 📸 Screenshots
-
-| Partner Metrics | Forecasting |
-|---|---|
-| ![Partner Metrics](assets/sample1.png) | ![Forecasting](assets/sample2.png) |
+> [[🔗 Click here to launch the app](https://your-live-link.streamlit.app)](https://intelligence-dashboard-5w57kfbrgaygjl6odupsug.streamlit.app/)
 
 ## 💡 Use Cases
 
